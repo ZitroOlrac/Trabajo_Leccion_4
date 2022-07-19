@@ -6,7 +6,7 @@ public class Main {
         ValidarNumero(0);
         System.out.println("2da Pregunta");
         IncrementarNumero(0);
-        System.out.println("3da Pregunta");
+        System.out.println("3ra Pregunta");
         IncrementarNumeroDoWhile(2);
         System.out.println("4ta Pregunta");
         bucleFor();
